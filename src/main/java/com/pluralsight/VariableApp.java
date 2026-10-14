@@ -25,11 +25,35 @@ public class VariableApp {
         System.out.println(i);
         System.out.println(name);
         System.out.println(pet);
+        System.out.println(greeting);
 
 
         // STEP 2
 
         // 1. Number of days in a week
+        int week = 7;
+
+        //2. Price of coffee
+        double coffee = 4.99;
+
+        //3. Your favorite letter
+        char letter = 'S';
+
+        //4. Whether it's raining
+        boolean raining = true;
+
+        System.out.println("There are " + week + " days in a week.");
+        System.out.println("You will pay " + coffee + " for your drink.");
+        System.out.println("My favorite letter is '" + letter + "'.");
+        System.out.println("The answer to 'Will it rain today? is: " + raining + ".");
+
+
+
+
+
+
+
+
 
     }
 }
