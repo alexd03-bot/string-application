@@ -21,9 +21,15 @@ public class VariableApp {
         //5. Declare a variable with a nice message or saying
         String greeting = "Wagwan";
 
+        System.out.println(color);
+        System.out.println(i);
+        System.out.println(name);
+        System.out.println(pet);
+
 
         // STEP 2
 
         // 1. Number of days in a week
+
     }
 }
